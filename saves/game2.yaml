@@ -1,0 +1,30 @@
+--- !ruby/object:Game
+hidden_letters:
+- " a"
+- " ___ "
+- " e"
+- " n"
+- " ___ "
+- " i"
+- " e"
+- " ___ "
+guessed_letters:
+- a
+- e
+- i
+- o
+- r
+- m
+- "n"
+guess_count: 3
+word: agencies
+letters_array:
+- a
+- g
+- e
+- "n"
+- c
+- i
+- e
+- s
+letter: save

@@ -1,0 +1,31 @@
+--- !ruby/object:Game
+hidden_letters:
+- " ___ "
+- " e"
+- " ___ "
+- " i"
+- " ___ "
+- " ___ "
+- " e"
+- " s"
+guessed_letters:
+- a
+- e
+- i
+- o
+- w
+- r
+- s
+- t
+guess_count: 1
+word: vehicles
+letters_array:
+- v
+- e
+- h
+- i
+- c
+- l
+- e
+- s
+letter: save
